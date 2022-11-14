@@ -24,5 +24,8 @@ To know more about the project features and elements, read the PDF file.
 ## Author
 Himanshu
 
+## Author Email
+hhimanshu4829@conestogac.on.ca
+
 
 
